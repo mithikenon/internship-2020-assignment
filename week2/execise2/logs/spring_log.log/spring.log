@@ -1,0 +1,29 @@
+2020-08-15 16:10:13.965  INFO 9260 --- [main] com.intern.test.Execise1Application      : Starting Execise1Application on MiThikeNon with PID 9260 (C:\Users\user\eclipse-workspace\spring-1\execise1\target\classes started by user in C:\Users\user\eclipse-workspace\spring-1\execise1)
+2020-08-15 16:10:13.976  INFO 9260 --- [main] com.intern.test.Execise1Application      : No active profile set, falling back to default profiles: default
+2020-08-15 16:10:15.273  INFO 9260 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$ab07f833] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-15 16:10:15.606  INFO 9260 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-08-15 16:10:16.424  INFO 9260 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-08-15 16:10:16.493  INFO 9260 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-08-15 16:10:16.494  INFO 9260 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-15 16:10:16.739  INFO 9260 --- [main] o.a.c.c.C.[.[localhost].[/intern]        : Initializing Spring embedded WebApplicationContext
+2020-08-15 16:10:16.740  INFO 9260 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2659 ms
+2020-08-15 16:10:17.525  INFO 9260 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-15 16:10:18.196  INFO 9260 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/intern'
+2020-08-15 16:10:18.217  INFO 9260 --- [main] com.intern.test.Execise1Application      : Started Execise1Application in 5.316 seconds (JVM running for 6.384)
+2020-08-15 17:43:58.935  INFO 9260 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[localhost].[/intern]        : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-15 17:43:59.265  INFO 9260 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-08-15 17:44:00.993  INFO 9260 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1726 ms
+2020-08-15 17:45:05.829  WARN 9260 --- [http-nio-8080-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-08-15 17:45:23.640  WARN 9260 --- [http-nio-8080-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2020-08-15 19:58:26.708  WARN 9260 --- [http-nio-8080-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-08-15 20:00:04.623  WARN 9260 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-08-15 20:03:55.650  WARN 9260 --- [http-nio-8080-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-08-15 20:08:23.701  WARN 9260 --- [http-nio-8080-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-08-15 20:08:47.531  WARN 9260 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-08-15 20:10:08.411  WARN 9260 --- [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2020-08-15 20:14:18.279  WARN 9260 --- [http-nio-8080-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2020-08-15 20:15:49.928  WARN 9260 --- [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2020-08-15 20:18:51.481  WARN 9260 --- [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-08-15 20:19:03.711  WARN 9260 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-08-15 20:36:22.910  INFO 9260 --- [RMI TCP Connection(191)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-08-15 20:36:29.100  INFO 9260 --- [RMI TCP Connection(191)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
